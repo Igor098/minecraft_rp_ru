@@ -88,7 +88,7 @@ class RaspberryJamMod {
     getInfo() {
         return {
             "id": "RaspberryJamMod",
-            "name": "Майнкрафт",
+            "name": "Minecraft",
             
             "blocks": [{
                     "opcode": "connect_p",
